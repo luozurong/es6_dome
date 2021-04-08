@@ -1,1 +1,2 @@
-import './example/classify'
+// import './example/classify'
+import './ES/class.js'
